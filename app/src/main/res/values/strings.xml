@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DateRangeExample</string>
+    <string-array name="date_array">
+        <item>Today so far</item>
+        <item>Yesterday</item>
+        <item>This Week so far</item>
+        <item>This Month so far</item>
+        <item>Last Month</item>
+        <item>This Year so far</item>
+        <item>LifeTime</item>
+        <item>Custom</item>
+    </string-array>
+</resources>
